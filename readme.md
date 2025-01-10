@@ -8,8 +8,7 @@
 
 -------
 <p align="center">
-> ℹ️ Link do meu projeto
-https://docs.google.com/presentation/d/e/2PACX-1vTuXlk_X8c6Dfp8qzt9IApGl48Ensws76M7hxvsZHeMfrMVQLrYpHZRVV1qaBJ0cgUmktDJo_8mXQep/pub?start=false&loop=false&de&slide=id.g2a4e6313252_0_356">
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTuXlk_X8c6Dfp8qzt9IApGl48Ensws76M7hxvsZHeMfrMVQLrYpHZRVV1qaBJ0cgUmktDJo_8mXQep/pub?start=false&loop=false&de&slide=id.g2a4e6313252_0_356">ℹ️ Link do meu projeto</a>
 </p>
 
 <p align="center">
